@@ -51,7 +51,7 @@ title: Arch Step-by-Step
 	* Set locale
 
 			nano /etc/local.gen
-			\/\/Uncomment the selected locale and save
+			//Uncomment the selected locale and save
 
 	* create the locales
 		
