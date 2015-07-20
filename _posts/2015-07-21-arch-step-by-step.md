@@ -3,6 +3,8 @@ layout: post
 title: Arch Step-by-Step
 ---
 
+*I like to keep things short and to the point. Lets start.*
+
 ## 1. Partitioning the Hard Drive
 
 *  Identify the disk
