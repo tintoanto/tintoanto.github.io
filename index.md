@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Hi, I'm Troy Swanson
+title: Hi, I'm Tinto Anto
 ---
 
-# Hi, I'm Troy Swanson
+# Hi, I'm Tinto Anto
 
-I'm a *web developer* at ObjectRocket.
+I'm a *developer* at Visual IQ.
