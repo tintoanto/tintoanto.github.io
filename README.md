@@ -11,5 +11,5 @@ Everything contained in this repository, with the exception of stuff explicitly 
 
 If you have any questions about anything you see here, please feel free to send me an email and I'll be happy to entertain just about any discussion.
 
-This is a fork from https://github.com/troyswanson/troyswanson.github.io
+This is a fork from [troyswanson.github.io](https://github.com/troyswanson/troyswanson.github.io). 
 Credits to him for the awesome work.
