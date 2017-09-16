@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/tintoanto/tintoanto.github.io.svg?branch=master)](https://travis-ci.org/tintoanto/tintoanto.github.io)
 [![Dependency Status](https://gemnasium.com/tintoanto/tintoanto.github.io.svg)](https://gemnasium.com/tintoanto/tintoanto.github.io)
 
-Hey, this is Tinto Anto's personal site/blog using GitHub Pages and Jekyll
+Hey, this is Tinto Alapatt's personal site/blog using GitHub Pages and Jekyll
 
 ## A quick note
 

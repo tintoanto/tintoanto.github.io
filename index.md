@@ -1,8 +1,10 @@
 ---
 layout: home
-title: Hi, I'm Tinto Anto
+title: Tinto Alapatt
 ---
 
-# Hi, I'm Tinto Anto
+# Tinto Alapatt
 
-I'm a *Graduate Student* in University at Buffalo.
+*Graduate Student* 
+
+at *University at Buffalo*, SUNY.
