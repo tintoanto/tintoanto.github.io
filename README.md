@@ -7,9 +7,10 @@ Hey, this is Tinto Anto's personal site/blog using GitHub Pages and Jekyll
 
 ## A quick note
 
-Everything contained in this repository, with the exception of stuff explicitly acknowledged otherwise, is my work. I take great pride in it, and want to share it with the world, just in case someone might find it useful. That said, please do not steal any of my code and try to pass it off as your own. I've included in this repository a [license](https://github.com/tintoanto/tintoanto.github.io/blob/master/LICENSE.md) which defines acceptable use of anything you might find here.
 
 If you have any questions about anything you see here, please feel free to send me an email and I'll be happy to entertain just about any discussion.
 
 This is a fork from [troyswanson.github.io](https://github.com/troyswanson/troyswanson.github.io). 
 Credits to him for the awesome work.
+
+[License](https://github.com/tintoanto/tintoanto.github.io/blob/master/LICENSE.md)
